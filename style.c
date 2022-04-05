@@ -25,3 +25,7 @@ void titleUtama(){
     printf("|      Simulasi Program Toko Komputer Mayun      |\n");
     printf("+================================================+\n");
 }
+
+int main(){
+    cout << " Hai aku derah wkwkkwk"  << endl;
+}
